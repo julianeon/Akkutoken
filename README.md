@@ -2,6 +2,8 @@
 
 This simple one page app demonstrating payments with a made up ERC-20 token, Akkutoken, and MetaMask.
 
+![view of the app](./public/pay_for_blocks.png)
+
 ## Run The App
 
 In the project directory, you can run:
